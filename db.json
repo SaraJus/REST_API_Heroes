@@ -1,0 +1,22 @@
+
+{
+        "Herois": [
+        {
+          "id": 1,
+          "nome_fantasia": "Homem de Ferro",
+          "nome_real": "Tony Stark"
+        },
+        {
+            "id": 2,
+            "nome_fantasia": "Viuva Negra",
+            "nome_real": "Natasha Romanoff"
+          },
+          {
+            "id": 3,
+            "nome_fantasia": "Hulk",
+            "nome_real": "Bruce Banner"
+    
+        }
+    ]
+}
+    
